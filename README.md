@@ -1,5 +1,10 @@
 # Swisstronic Script
 
+<p align="center">
+<img src='image.jpg' width='700'>
+</p>
+
+
 ### Simple Contract Deployment Task Script
 - First, open [Gitpod](https://gitpod.io/workspaces)
 - Click on ur potfile dp in the corner
